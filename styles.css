@@ -1,0 +1,11 @@
+.div-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: whitesmoke;
+}
+
+#video1 {
+    justify-content: center;
+    padding-inline: 5px;
+}
