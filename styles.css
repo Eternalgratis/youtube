@@ -114,11 +114,26 @@ align-content: space-between;
 position: absolute;
 bottom: -270px;
 width: 900px;
+border: 10px;
 }
 
 .subscribers {
 margin-left: 60px;
+border: 10px;
 position: absolute;
 left: 10px;
 bottom: -380px;
+
 }
+.views :hover {
+color: red;
+}
+
+h3 {
+    color: red;
+}
+
+#subscription {
+    background-color: red;
+    display: inline;
+} 
